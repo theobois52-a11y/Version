@@ -1,3 +1,5 @@
 {
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "download": "https://github.com/theobois52-a11y/Launcher/releases/download/1.0.1/Launcher.exe",
+  "changelog": "Correction de bugs + amélioration du launcher"
 }
